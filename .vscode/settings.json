@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "always",
+      "source.organizeImports": "always"
+    },
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.rulers": [80, 100]
+  },
+  "[toml]": {
+    "editor.rulers": [80]
+  },
+  "python.analysis.extraPaths": ["./frontend/src"],
+  "python.defaultInterpreterPath": "./frontend/venv/Scripts/python.exe",
+  "python.terminal.activateEnvironment": true
+}

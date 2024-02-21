@@ -13,5 +13,6 @@
   },
   "python.analysis.extraPaths": ["./frontend/src"],
   "python.defaultInterpreterPath": "./frontend/venv/Scripts/python.exe",
-  "python.terminal.activateEnvironment": true
+  "python.terminal.activateEnvironment": true,
+  "cmake.sourceDirectory": "C:/Users/codetex/Code/Apps/super-duper-octo-train/backend"
 }
